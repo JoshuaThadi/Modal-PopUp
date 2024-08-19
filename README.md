@@ -8,9 +8,10 @@
 
 <br/>
 
-<a align="right" href="https://JoshuaThadi.io">
-    <img src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20154051.png">
-</a>
+<div align="right">
+    <img align="left" alt="image" width="500" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185903.png">
+    
+</div>
 
 <h3 align="center">📍 Modern Login Popup Page.</h3>
 <div align="center">
