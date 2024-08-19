@@ -27,7 +27,7 @@
 <br/>
 
 <div align="left">
-  <h2>💻 Tech Stack:</h2>
+  <h3>💻 Tech Stack:</h3>
      <br/>
    <img src="https://img.shields.io/badge/HTML-FF6600?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Bootstrap-563d7c💻 ?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -37,6 +37,6 @@
     <img src="https://skillicons.dev/icons?i=html,bootstrap" />
 </div>
 
-<h2>⭐ Responsive & Non-Responsive</h2>
+<h3>⭐ Responsive & Non-Responsive</h3>
 <p>🛠️ The Top Modal is Built responsive through Bootstrap classes. 🛠️</p>
 <p>💻  The Bottom Modal popup login page is made uo of HTML&CSS with can be applicable in desktop. 💻</p>
