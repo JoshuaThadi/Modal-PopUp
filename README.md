@@ -9,7 +9,7 @@
 <br/>
 
 <div align="right">
-    <img align="left" alt="image" width="500" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185903.png">
+    <img align="left" alt="image" width="500" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20154107.png">
     
 </div>
 
