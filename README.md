@@ -9,7 +9,7 @@
 <br/>
 
 <div align="right">
-    <img align="left" alt="image" width="400px" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20162243.png">
+    <img align="left" alt="image" width="350px" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20162243.png">
     
 </div>
 
@@ -26,17 +26,13 @@
 
 <br/>
 
-<h2>Tech Stack</h2>
-
 <div align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5">
-    </a>
-     <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    </a>
+  <h2>💻 Tech Stack:</h2>
+     <br/>
+   <img src="https://img.shields.io/badge/HTML-FF6600?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <br/>
 </div>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,bootstrap" />
 </div>
