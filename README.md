@@ -9,7 +9,7 @@
 <br/>
 
 <div align="right">
-    <img align="left" alt="image" width="700px" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20162243.png">
+    <img align="left" alt="image" width="650px" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20162243.png">
     
 </div>
 
@@ -17,7 +17,7 @@
 <div align="center">
     <h3>🌐 Modal-PopUp Website Link:</h3>
     <a href="https://joshuathadi.github.io/Modal-PopUp/" target="_blank">
-        <img src="https://img.shields.io/badge/MODAL_POPUP-ADD8E6?style=for-the-badge&logo=html5&logoColor=black" alt="Modal-PopUp">
+        <img width="150px" src="https://img.shields.io/badge/MODAL_POPUP-ADD8E6?style=for-the-badge&logo=html5&logoColor=black" alt="Modal-PopUp">
     </a>
 </div>
 
