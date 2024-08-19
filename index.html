@@ -53,6 +53,28 @@
             color: inherit;
             text-decoration: none;
         }
+         /* Responsive icon image */
+         .responsive-icon {
+            width: 100%;
+            height: auto;
+            max-width: 100px; /* Adjust max-width based on your design needs */
+            max-height: 100px; /* Adjust max-height based on your design needs */
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            .responsive-icon {
+                max-width: 80px;
+                max-height: 80px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .responsive-icon {
+                max-width: 60px;
+                max-height: 60px;
+            }
+        }
     </style>
 
 </head>
@@ -66,9 +88,10 @@
     </div>
 
     <div class="px-4 py-5 my-5 text-center">
-        <img class="d-block mx-auto mb-4" src="bootstrap-img.png" alt="" width="5%" height="57">
-        <h1 class="display-5 fw-bold">Modal-PopUp / main-root</h1>
+        <img class="responsive-icon d-block mx-auto mb-4" src="bootstrap-img.png">
+        <h1 class="display-5 fw-bold">Modal-PopUp / Responsive</h1>
         <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">Can be displayed in All Devices</p>
             <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
             <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
                 <button type="button" class="btn btn-violet btn-lg px-4 gap-3">
@@ -89,9 +112,10 @@
     </div>
 
     <div class="px-4 py-5 my-5 text-center">
-        <img class="d-block mx-auto mb-4" src="html-img.png" alt="" width="5%" height="57">
-        <h1 class="display-5 fw-bold">Modal-PopUp / main-root</h1>
+        <img class="responsive-icon  d-block mx-auto mb-4" src="html-img.png">
+        <h1 class="display-5 fw-bold">Modal-PopUp / Non-Responsive</h1>
         <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">Can only be display in desktop application</p>
             <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
             <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
                 <button type="button" class="btn btn-danger btn-lg px-4">
