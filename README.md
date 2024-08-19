@@ -36,3 +36,7 @@
         <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     </a>
 </div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,bootstrap" />
+</div>
