@@ -10,7 +10,7 @@
 
 <div align="right">
     <img align="left" alt="image" width="350px" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20162243.png">
-    
+    <img align="left" alt="image" width="300px" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20193535.png">
 </div>
 
 <h3 align="center">📍 Modern Login Popup Page.</h3>
@@ -36,3 +36,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,bootstrap" />
 </div>
+
+<h2>⭐ Responsive & Non-Responsive</h2>
+<p>The Top Modal is Built responsive through Bootstrap classes.</p>
+<p>The Bottom Modal popup login page is made uo of HTML&CSS with can be applicable in desktop</p>
