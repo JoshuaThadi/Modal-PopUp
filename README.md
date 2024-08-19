@@ -6,17 +6,21 @@
 
 <h3 align="center">📚 Just a plain project to showcase Modal-Popup login page.</h3>
 
-
-
 <br/>
 
+<a align="right" href="https://JoshuaThadi.io">
+    <img src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20154051.png">
+</a>
 
 <h3 align="center">📍 Modern Login Popup Page.</h3>
-<div style="text-align: center;">
+<div align="center">
+    <h3>🌐 Modal-PopUp Website Link:</h3>
     <a href="https://joshuathadi.github.io/Modal-PopUp/" target="_blank">
-        <img src="https://img.shields.io/badge/Modal_PopUp-0033cc?style=for-the-badge&logo=web&logoColor=white" alt="Modal PopUp">
+        <img src="https://img.shields.io/badge/MODAL_POPUP-ADD8E6?style=for-the-badge&logo=html5&logoColor=black" alt="Modal-PopUp">
     </a>
 </div>
+
+
 
 
 <br/>
