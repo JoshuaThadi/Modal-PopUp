@@ -10,7 +10,7 @@
 
 <div align="right">
     <img align="left" alt="image" width="480px" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20162243.png">
-    <img align="left" alt="image" width="479px" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20193535.png">
+    <img align="left" alt="image" width="480px" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20193535.png">
 </div>
 
 <h3 align="left">📍 Modern Login Popup Page.</h3>
