@@ -25,11 +25,3 @@
 
 
 <br/>
-
-<div align="center">
-     <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" height="70" width="90" />
-    <h3> * Bootstrap * </h3>
-    
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-
-</div>
