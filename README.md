@@ -12,8 +12,9 @@
     <img align="" alt="image" width="auto" src="https://github.com/BEZEHEL/Modal-PopUp/blob/main/Screenshot%202024-09-06%20152251.png">
 </div>
 
-
-<h3 align="left">📍 Modern Login Popup Page.</h3>
+<h3>⭐ Responsive & Non-Responsive</h3>
+<p>🛠️ The Top Modal is Built responsive through Bootstrap classes. 🛠️</p>
+<p>💻  The Bottom Modal popup login page is made uo of HTML&CSS with can be applicable in desktop. 💻</p>
 <div align="left">
     <h3>🌐 Modal-PopUp Website Link:</h3>
     <a align="center" href="https://joshuathadi.github.io/Modal-PopUp/" target="_blank">
@@ -33,7 +34,3 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,bootstrap" />
 </div>
-
-<h3>⭐ Responsive & Non-Responsive</h3>
-<p>🛠️ The Top Modal is Built responsive through Bootstrap classes. 🛠️</p>
-<p>💻  The Bottom Modal popup login page is made uo of HTML&CSS with can be applicable in desktop. 💻</p>
