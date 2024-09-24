@@ -1,16 +1,12 @@
-<a href="https://JoshuaThadi.io">
-    <img src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20154051.png" alt="MasterHead">
-</a>
+<div align="right">
+    <img align="" alt="image" width="auto" src="https://github.com/BEZEHEL/Modal-PopUp/blob/main/Screenshot%202024-09-06%20152251.png">
+</div>
 
 <h1 align="center">Yo 😎, This is a Decent Modal-popup Login website</h1>
 
 <h3 align="center">📚 Just a plain project to showcase Modal-Popup login page.</h3>
 
 <br/>
-
-<div align="right">
-    <img align="" alt="image" width="auto" src="https://github.com/BEZEHEL/Modal-PopUp/blob/main/Screenshot%202024-09-06%20152251.png">
-</div>
 
 <h3>⭐ Responsive & Non-Responsive</h3>
 <p>🛠️ The Top Modal is Built responsive through Bootstrap classes. 🛠️</p>
