@@ -10,7 +10,7 @@
 
 <h3>⭐ Responsive & Non-Responsive</h3>
 <p>🛠️ The Top Modal is Built responsive through Bootstrap classes. 🛠️</p>
-<p>💻  The Bottom Modal popup login page is made uo of HTML&CSS with can be applicable in desktop. 💻</p>
+<p>💻  The Bottom Modal popup login page is made up of HTML&CSS with can be applicable in desktop. 💻</p>
 <div align="left">
     <h3>🌐 Modal-PopUp Website Link:</h3>
     <a align="center" href="https://joshuathadi.github.io/Modal-PopUp/" target="_blank">
