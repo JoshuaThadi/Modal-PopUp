@@ -32,3 +32,10 @@
     <img src="https://skillicons.dev/icons?i=html,bootstrap" />
 </div>
 </div>    
+<div class="center">
+    
+    <a href="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/LICENSE" target="_blank">
+    <img width="110px" src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAOVBMVEUAAAD///+lpaWkpKQlJSXo6Oja2trFxcXa2tpwcHCMjIylpaWIiIhNTU3c3NzCwsKUlJSXl5eDg4NHR0e2trZVlgClAAABkUlEQVRIx9WWS47DMAyFwRFQBaFAoP//y2AsqFEOIk02n7C6WExLGedOCJJ5+OhnBc8EVsK+gkzR24p4ODhj1Gdo6cR2CLJbiKuMniEF1LK9gKiAGvZfHDg+P7gWCD0yxCOJLlUOaAVpKSpAXZFYox2W8KNmJuwc9hT3KBmLn+hZwUmojljCVJ7xlEy7wHJDeQKuEdyE+BUcCD8jCVFwfiFkccx5FSKhrNDEbsYa5KhWvQFbgezzc7gbyixMvQGgAs0doZ6qsZxrKFL2GogU5C34upZnVXULjSLNXjoWYtD7GRNMW2ANosjkwqjKhqiaI9ZCWpgnA7D9waWaAH14IPMi3GiLacbEX3twqqmYB8/kCoJhA5sDdGhtVchmkKE14Rqr8gNHwRFBFRwpoCyDItFJDjIl5KoyphXzH1MyS52P5RPANiDPD91CDBptk7Efdy6Yqi9gRxnATzk5X5/CgweCr5i3SfYOVDyyo7g6kFoXwtPh6EygAAjv8Ac8EOe9zRdqgAAAAASUVORK5CYII=&labelColor=blue&color=blue" alt="MIT License Badge" />
+</a>
+
+</div>
