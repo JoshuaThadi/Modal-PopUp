@@ -1,5 +1,5 @@
 <div align="right">
-    <img align="" alt="image" width="auto" src="https://github.com/BEZEHEL/Modal-PopUp/blob/main/Screenshot%202024-09-06%20152251.png">
+    <img align="" alt="image" width="auto" src="https://github.com/JoshuaThadi/Modal-PopUp/blob/main/Screenshot%202024-08-19%20154051.png">
 </div>
 
 <h1 align="center">Yo 😎, This is a Decent Modal-popup Login website</h1>
